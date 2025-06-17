@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Mony Saver project<br>🌱 I’m currently learning PyQT6<br>💬 Ask me about FrontEnd
+🔭 I’m currently working on Mony Saver project<br>🌱 I’m currently learning CCNA<br>💬 Ask me about Cyber Security
 
 
 ## 🌐 Socials:
