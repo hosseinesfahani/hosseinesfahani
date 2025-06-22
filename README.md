@@ -1,22 +1,28 @@
-## Hi there 👋 I'm [Your Name]
+## 👋 Hi there, I'm Hossein
 
-### 👨‍💻 About Me:
-- 🔭 I’m currently working on: ...
-- 🌱 I’m currently learning: ...
-- 💬 Ask me about: Python, JavaScript, ...
-- ⚡ Fun fact: I love coffee and clean code!
+I'm a passionate developer and tech enthusiast who loves learning and building useful stuff.  
+Always exploring new technologies and working on interesting projects.
 
-### 🛠️ Languages and Tools:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-<!-- Add more as needed -->
+### 🚀 About Me
+- 🔭 I’m currently working on: **Money Saver** – a personal finance management app
+- 🌱 I’m currently learning: JavaScript, C++
+- 💬 Ask me about: Cyber Security, C++
 
-### 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+### 🛠️ Languages & Tools
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+### 📈 GitHub Stats
+![Hossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosseinesfahani&show_icons=true&theme=radical)
+
+### 📫 How to reach me
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vshosseingithub@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossein-esfahani-79b6a6370)
 
 ---
 
-<!-- Optional: GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+Thanks for visiting! 😊
