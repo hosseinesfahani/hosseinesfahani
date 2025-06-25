@@ -13,6 +13,48 @@
 ```
 </pre>
 
+```ruby
+response = {
+  status: 200,
+  data: {
+    full_name: "Hossein Esfahani",
+    birth_day: "????",
+    university: "???",
+    hobbies: [
+      "cybersecurity",
+      "UI/UX",
+      "open source",
+      "automation"
+    ],
+    languages: [
+      "C++",
+      "Python",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Linux",
+      "Qt"
+    ],
+    certifications: [
+      "CEH",
+      "CCNA"
+    ],
+    tools: [
+      "Kali Linux",
+      "Termux",
+      "Electron",
+      "PyQt"
+    ],
+    quote: "Stay curious, stay secure.",
+    currently: "LEARNING: JavaScript, PyQt, Electron"
+  }
+}
+```
+
+
+
+
+
 I'm a passionate developer and tech enthusiast who loves learning and building useful stuff.  
 Always exploring new technologies and working on interesting projects.
 
