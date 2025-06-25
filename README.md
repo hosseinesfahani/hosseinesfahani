@@ -14,6 +14,7 @@ Always exploring new technologies and working on interesting projects.
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Networking-CCNA-blue?style=flat&logo=cisco&logoColor=white)
 
 ### 📈 GitHub Stats
 ![Hossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosseinesfahani&show_icons=true&theme=radical)
