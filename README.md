@@ -33,14 +33,6 @@ Constantly exploring new technologies 🚀 and embracing challenging projects �
 ![CEH](https://img.shields.io/badge/CEH-Ethical_Hacking-red?style=flat&logo=hackaday&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 
-### 🧰 Editors I Use
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white)
-![RubyMine](https://img.shields.io/badge/RubyMine-CC342D?style=flat&logo=rubymine&logoColor=white)
-
 ### 📈 GitHub Stats
 ![Hossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosseinesfahani&show_icons=true&theme=dark)
 
