@@ -34,7 +34,7 @@ Always exploring new technologies and working on interesting projects.
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 
 ### 📈 GitHub Stats
-![Hossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosseinesfahani&show_icons=true&theme=radical)
+![Hossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosseinesfahani&show_icons=true&theme=dark)
 
 ### 📫 How to reach me
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vshosseingithub@gmail.com)
