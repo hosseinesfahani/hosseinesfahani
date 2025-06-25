@@ -16,6 +16,7 @@ Always exploring new technologies and working on interesting projects.
 
 ### 🔐 Cybersecurity Tools
 ![Networking](https://img.shields.io/badge/Networking-CCNA-blue?style=flat&logo=cisco&logoColor=white)
+![CEH](https://img.shields.io/badge/CEH-Ethical_Hacking-red?style=flat&logo=hackaday&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 
