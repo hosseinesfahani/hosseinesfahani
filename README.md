@@ -13,8 +13,8 @@
 ```
 </pre>
 
-I am a passionate developer and cybersecurity enthusiast who loves **learning** and **building impactful solutions**.  
-Constantly exploring new technologies and embracing challenging projects to grow and innovate.
+I am a passionate developer and cybersecurity enthusiast who loves **learning** 📚 and **building impactful solutions** 🛠️.  
+Constantly exploring new technologies 🚀 and embracing challenging projects 💡 to grow and innovate.
 
 ### 🚀 About Me
 - 🔭 I’m currently working on: **Money Saver** – a personal finance management app
