@@ -10,9 +10,9 @@ Always exploring new technologies and working on interesting projects.
 
 ### 🛠️ Languages & Tools
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
 
 ### 🔐 Cybersecurity Tools
 ![Networking](https://img.shields.io/badge/Networking-CCNA-blue?style=flat&logo=cisco&logoColor=white)
