@@ -22,6 +22,7 @@ Constantly exploring new technologies 🚀 and embracing challenging projects �
 - 💬 Ask me about: Cyber Security, C++
 
 ### 🛠️ Languages & Tools
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/Bash_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&style=flat)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
