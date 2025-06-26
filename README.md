@@ -36,7 +36,8 @@ Constantly exploring new technologies 🚀 and embracing challenging projects �
 
 ### 🧠 IDEs & Editors
 <div>
-        <img src="https://github.com/hosseinesfahani/hosseinesfahani/blob/main/SRC/icon/icons-visual-studio.svg" alt="reactjs" width="40" height="40">
+        <img src="https://github.com/hosseinesfahani/hosseinesfahani/blob/main/SRC/icon/icons-visual-studio.svg" alt="Visual Studio" width="40" height="40">
+        <img src="https://github.com/hosseinesfahani/hosseinesfahani/blob/main/SRC/icon/icons-visual-studio-code.svg" alt="Visual Studio Code" width="40" height="40">
 </div>
 
 ### 📈 GitHub Stats
