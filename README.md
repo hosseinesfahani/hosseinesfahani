@@ -34,6 +34,9 @@ Constantly exploring new technologies 🚀 and embracing challenging projects �
 ![CEH](https://img.shields.io/badge/CEH-Ethical_Hacking-red?style=flat&logo=hackaday&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 
+### 🧠 IDEs & Editors
+
+
 ### 📈 GitHub Stats
 ![Hossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosseinesfahani&show_icons=true&theme=dark)
 
