@@ -35,7 +35,9 @@ Constantly exploring new technologies 🚀 and embracing challenging projects �
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 
 ### 🧠 IDEs & Editors
-
+<div>
+        <img src="https://github.com/hosseinesfahani/hosseinesfahani/blob/main/SRC/icon/icons-visual-studio.svg" alt="reactjs" width="40" height="40">
+</div>
 
 ### 📈 GitHub Stats
 ![Hossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosseinesfahani&show_icons=true&theme=dark)
