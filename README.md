@@ -54,6 +54,6 @@ Constantly exploring new technologies 🚀 and embracing challenging projects �
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossein-esfahani-79b6a6370)
 
 ---
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=hosseinesfahani)
-
 Thanks for visiting! 😊
+
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=hosseinesfahani)
