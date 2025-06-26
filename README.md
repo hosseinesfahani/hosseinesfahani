@@ -36,7 +36,8 @@ Constantly exploring new technologies 🚀 and embracing challenging projects �
 
 ### 📈 GitHub Stats
 ![Hossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosseinesfahani&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinesfahani&hide_progress=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinesfahani&layout=compact&theme=dark)
 
 ### 📫 How to reach me
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vshosseingithub@gmail.com)
