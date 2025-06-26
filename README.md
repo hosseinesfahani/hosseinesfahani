@@ -38,6 +38,10 @@ Constantly exploring new technologies 🚀 and embracing challenging projects �
 <div>
         <img src="https://github.com/hosseinesfahani/hosseinesfahani/blob/main/SRC/icon/icons-visual-studio.svg" alt="Visual Studio" width="40" height="40">
         <img src="https://github.com/hosseinesfahani/hosseinesfahani/blob/main/SRC/icon/icons-visual-studio-code.svg" alt="Visual Studio Code" width="40" height="40">
+        <img src="https://github.com/hosseinesfahani/hosseinesfahani/blob/main/SRC/icon/icons-vim.svg" alt="Vim" width="40" height="40">
+        <img src="https://github.com/hosseinesfahani/hosseinesfahani/blob/main/SRC/icon/icons-clion.svg" alt="Clion" width="40" height="40">
+        <img src="https://github.com/hosseinesfahani/hosseinesfahani/blob/main/SRC/icon/icons-rubymine.svg" alt="RubyMine" width="40" height="40">
+        <img src="" alt="PyCharm" width="40" height="40">
 </div>
 
 ### 📈 GitHub Stats
