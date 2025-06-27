@@ -46,9 +46,11 @@ Constantly exploring new technologies 🚀 and embracing challenging projects �
 </div>
 
 ### 📈 GitHub Stats
-![Hossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosseinesfahani&show_icons=true&theme=dark&hide_border=true)
+![Hossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosseinesfahani&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=39ff14)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinesfahani&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinesfahani&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00)
+
+[![Hossein's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hosseinesfahani&bg_color=0d1117&color=00ff00&line=00ff00&point=39ff14&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 📫 How to reach me
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vshosseingithub@gmail.com)
