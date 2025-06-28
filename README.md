@@ -50,6 +50,8 @@ Constantly exploring new technologies 🚀 and embracing challenging projects �
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinesfahani&layout=compact&theme=dark&hide_border=true)
 
+![Hossein's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hosseinesfahani&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&area=true&hide_border=true)
+
 ### 📫 How to reach me
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vshosseingithub@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossein-esfahani-79b6a6370)
