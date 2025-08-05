@@ -22,8 +22,8 @@ Constantly exploring new technologies 🚀 and embracing challenging projects �
 
 ### 🚀 About Me
 - 🔭 I’m currently working on: **Money Saver** – a personal finance management app
-- 🌱 I’m currently learning: JavaScript, C++
-- 💬 Ask me about: Cyber Security, C++
+- 🌱 I’m currently learning: Python
+- 💬 Ask me about: Cyber Security
 
 ### 🛠️ Languages & Tools
 <!-- 
