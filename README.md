@@ -55,7 +55,7 @@ Constantly exploring new technologies 🚀 and embracing challenging projects �
 </div>
 
 ### 🧾 My THM Profile
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/hosseinblcf11.png)
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/hosseinblcf11)
 
 ### 📈 GitHub Stats
 <img src="https://d3frb2mbny706b.cloudfront.net/hosseinesfahani" width="550">
