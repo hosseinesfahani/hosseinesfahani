@@ -14,7 +14,7 @@
 </pre>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF00&background=000000&center=true&vCenter=true&width=650&lines=>+root@hossein:~$+nmap+-sV+127.0.0.1;[+]+Port+22+open+-+Access+Granted;Loading+Modules:+Cyber+Intel,+Recon,+Exploit+Dev;>+Project:+Money+Saver+💰+[ACTIVE];>+Status:+Root+Access+Established;>>>+Welcome+To+My+Cyber+Domain+👾" alt="Hacker Terminal Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF00&background=000000&center=true&vCenter=true&width=650&lines=>+root@hossein:~$+nmap+-sV+127.0.0.1;[+]+Port+22+open+-+Access+Granted;Loading+Modules:+Cyber+Intel,+Recon,+Exploit+Dev;>+Project:+Money+Saver+💰+[DEACTIVE];>+Status:+Root+Access+Established;>>>+Welcome+To+My+Cyber+Domain+👾" alt="Hacker Terminal Typing SVG" />
 </p>
 
 I am a passionate developer and cybersecurity enthusiast who loves **learning** 📚 and **building impactful solutions** 🛠️.  
