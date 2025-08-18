@@ -54,8 +54,6 @@ Constantly exploring new technologies 🚀 and embracing challenging projects �
         <img src="https://github.com/hosseinesfahani/hosseinesfahani/blob/main/SRC/icon/PyCharm_Icon.svg" alt="PyCharm" width="40" height="40">
 </div>
 
-### 🧾 My THM Profile
-![TryHackMe](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5346662)
 
 ### 📈 GitHub Stats
 <img src="https://d3frb2mbny706b.cloudfront.net/hosseinesfahani" width="550">
