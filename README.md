@@ -56,8 +56,6 @@ Constantly exploring new technologies 🚀 and embracing challenging projects �
 
 
 ### 📈 GitHub Stats
-<img src="https://d3frb2mbny706b.cloudfront.net/hosseinesfahani" width="550">
-
 ![Hossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosseinesfahani&show_icons=true&theme=dark&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinesfahani&layout=compact&hide_border=true&theme=dark)
