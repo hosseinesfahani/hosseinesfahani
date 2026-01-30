@@ -39,7 +39,7 @@ Constantly exploring new technologies 🚀 and embracing challenging projects �
 ### 📚 Libraries & Frameworks
 ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat&logo=qt&logoColor=white)
 
-### 🔐 Cybersecurity Tools
+### 🔐 Cybersecurity Skills
 ![Networking](https://img.shields.io/badge/Networking-CCNA-blue?style=flat&logo=cisco&logoColor=white)
 ![CEH](https://img.shields.io/badge/CEH-Ethical_Hacking-red?style=flat&logo=hackaday&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
