@@ -56,7 +56,7 @@ Constantly exploring new technologies 🚀 and embracing challenging projects �
 
 
 ### 📈 GitHub Stats
-![Hossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosseinesfahani&show_icons=true&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hosseinesfahani)]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinesfahani&layout=compact&hide_border=true&theme=dark)
 
