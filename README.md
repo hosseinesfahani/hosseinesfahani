@@ -58,7 +58,7 @@ Constantly exploring new technologies 🚀 and embracing challenging projects �
 ### 📈 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=hosseinesfahani&theme=windows-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinesfahani&layout=compact&hide_border=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
 
 ![Hossein's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hosseinesfahani&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&area=true&hide_border=true)
 
