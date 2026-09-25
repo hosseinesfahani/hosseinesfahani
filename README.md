@@ -21,8 +21,8 @@ I am a passionate developer and cybersecurity enthusiast who loves **learning** 
 Constantly exploring new technologies 🚀 and embracing challenging projects 💡 to grow and innovate.
 
 ### 🚀 About Me
-- 🔭 I’m currently working on: **Money Saver** – a personal finance management app
-- 🌱 I’m currently learning: Python
+- 🔭 I’m currently working on: **PFMS** – a personal finance management web app
+- 🌱 I’m currently learning: Splunk
 - 💬 Ask me about: Cyber Security
 
 ### 🛠️ Languages & Tools
